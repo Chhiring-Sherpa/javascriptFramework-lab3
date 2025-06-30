@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Oliver Thompson", "country": "England", "gpa": 3.6, "faculty": "Engineering" },
+  { "id": 2, "name": "Aarav Mehta", "country": "India", "gpa": 3.8, "faculty": "Business" },
+  { "id": 3, "name": "Sita Rai", "country": "Nepal", "gpa": 3.9, "faculty": "Arts" },
+  { "id": 4, "name": "Hiroshi Tanaka", "country": "Japan", "gpa": 3.4, "faculty": "Science" },
+  { "id": 5, "name": "Emma Wilson", "country": "England", "gpa": 3.7, "faculty": "Medicine" },
+  { "id": 6, "name": "Rina Sato", "country": "Japan", "gpa": 3.5, "faculty": "Law" }
+]
